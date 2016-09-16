@@ -1,3 +1,12 @@
+/*
+ * @author:BrackenThorne
+ * @date:16/9/16
+ * css stylesheet for fake google project
+ */
+
+/*
+ * Styling for the header area
+ */
 #header
 {
 	width:100%;
@@ -39,6 +48,9 @@
 	border: 1px solid #4285f4;
 }
 
+/*
+ * Styling for the main
+ */
 #main
 {
 	background-color:green;
@@ -65,7 +77,9 @@
 	display:inline-block;
 }
 
-
+/*
+ * Styling for the footer area
+ */
 #footer
 {
 	position:absolute;
