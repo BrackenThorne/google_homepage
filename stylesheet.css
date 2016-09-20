@@ -150,11 +150,22 @@
 #rightlinks
 {
 	float:right;
+	margin-right:26px;
 }
 
 .botlink
 {
 	text-decoration:none;
-	font-size:13px;
+	font-size:16px;
 	font-family:Arial;
+	color:#777;
+	margin:0;
+	padding-left:26px;
+	font-size:small;
+	line-height:40px;
+}
+
+.botlink:hover
+{
+	text-decoration:underline;
 }
